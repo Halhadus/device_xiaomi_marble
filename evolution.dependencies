@@ -18,15 +18,16 @@
     "branch": "fourteen"
   },
   {
-    "repository": "vendor_xiaomi_miuicamera-marble",
+    "repository": "Chaitanyakm/vendor_xiaomi_miuicamera-marble",
     "target_path": "vendor/xiaomi/miuicamera-marble",
-    "remote": "evo-bitbucket"
+    "remote": "gitlab",
+    "branch": "fourteen"
   },
   {
-    "repository": "cupid-development/android_kernel_xiaomi_sm8450",
+    "repository": "Halhadus/android_kernel_xiaomi_sm8450",
     "target_path": "kernel/xiaomi/sm8450",
     "remote": "github-non-los",
-    "branch": "lineage-21"
+    "branch": "lindroid-21"
   },
   {
     "repository": "cupid-development/android_kernel_xiaomi_sm8450-devicetrees",
