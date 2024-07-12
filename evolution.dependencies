@@ -66,7 +66,7 @@
   },
   {
     "repository": "Linux-on-droid/libhybris",
-    "target_path": "vendor/libhybris",
+    "target_path": "libhybris",
     "remote": "github-non-los",
     "branch": "staging/lindroid-21"
   }
